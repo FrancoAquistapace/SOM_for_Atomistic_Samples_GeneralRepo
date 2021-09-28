@@ -10,6 +10,10 @@ The input file/s must be inside the same folder as the main.py file. Furthermore
 
 `ITEM: ATOMS id x y z feature_1 feature_2 ...`
 
+To run the software, simply execute the following command in a terminal (from the folder that contains the files and with a python environment activated):
+
+`python3 main.py`
+
 Check the software report in the repository for more information.
 
 ## Dependencies:
