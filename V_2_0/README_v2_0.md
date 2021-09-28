@@ -1,4 +1,4 @@
-# Self Organising Map for Clustering of Atomistic Samples - V2
+# Self Organising Map for Clustering of Atomistic Samples - V.2.0
 ## Description
 Self Organising Map (also known as Kohonen Network) implemented in Python for clustering of atomistic samples through unsupervised learning. The program allows the user to select wich per-atom quantities to use for training and application of the network, this quantities must be specified in the LAMMPS input file that is being analysed. The algorithm also requires the user to introduce some of the networks parameters:
 - _f_: Fraction of the input data to be used when training the network, must be between 0 and 1.
