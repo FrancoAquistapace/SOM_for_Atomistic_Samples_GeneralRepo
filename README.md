@@ -18,3 +18,9 @@ This software is written in Python 3.8.8 and uses the following external librari
 - Pandas 1.2.4
 
 (Both packages come with the basic installation of Anaconda)
+
+## V.1:
+Uses an interactive command-line interface that lets the user specify the input file, the features and the parameters of the algorithm. Can only analyze one file at a single run. Furthermore, the file to be analyzed is always used to train the SOM.
+
+## V.2:
+Expects an input_params.py file with a dictionary containing the input files and parameters of the algorithm. It has no interactive interface but allows the user to perform transfer learning and to analyze multiple files sequentially.
