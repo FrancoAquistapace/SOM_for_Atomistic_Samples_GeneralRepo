@@ -19,7 +19,7 @@ This software is written in Python 3.8.8 and uses the following external librari
 
 (Both packages come with the basic installation of Anaconda)
 
-## Whats new in V.1.1:
+## What's new in V.1.1:
 - Fixed normalization process.
 - Fixed weights update equation.
 
