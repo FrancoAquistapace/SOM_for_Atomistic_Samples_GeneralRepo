@@ -21,7 +21,7 @@ This software is written in Python 3.8.8 and uses the following external librari
 - NumPy 1.20.1
 - Pandas 1.2.4
 
-(Both packages come with the basic installation of Anaconda)
+(Both packages come with the basic installation of Anaconda at: https://www.anaconda.com/)
 
 ## V.1:
 Uses an interactive command-line interface that lets the user specify the input file, the features and the parameters of the algorithm. Can only analyze one file at a single run. Furthermore, the file to be analyzed is always used to train the SOM.
