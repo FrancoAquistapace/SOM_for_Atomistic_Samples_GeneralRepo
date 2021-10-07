@@ -23,6 +23,8 @@ This software is written in Python 3.8.8 and uses the following external librari
 - Updated normalization process for the input data.
 - Faster classification process and writing speeds for the output file.
 
+Check the report file in the repository for a complete description of the changes made in the software.
+
 ## Updates:
 V2 allows the user to analyse several files sequentally, using a single (previously specified) file for the training process. In this way, it allows to test whether transfer learning is possible or not for different samples. It is maintained in a different repository: https://github.com/rambo1309/SOM_for_Atomistic_Samples_V2
 
